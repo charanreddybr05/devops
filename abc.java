@@ -1,5 +1,2 @@
-Hello
-djjckala
-aslknkca;
-asksa
-
+Hello World
+Welcome to DevOps world
